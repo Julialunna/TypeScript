@@ -1,3 +1,6 @@
 typescript, deve-se instalar: typescript @types/node @types/react @types/react-dom @types/jest
 configuração typescript-> npx tsc --init
 definir em ts config se vai usar com o que, aqui foi react
+para dar tipo, cria-se interface e define-se o tipo da props como a interface
+valor opcional->var?: tipo
+jeito mais rápido de receber variáveis -> {enderecoImagem, textoAlternativo}:BannerProps
