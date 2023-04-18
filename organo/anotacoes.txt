@@ -4,3 +4,6 @@ definir em ts config se vai usar com o que, aqui foi react
 para dar tipo, cria-se interface e define-se o tipo da props como a interface
 valor opcional->var?: tipo
 jeito mais rápido de receber variáveis -> {enderecoImagem, textoAlternativo}:BannerProps
+tipo Função->funcao: (valor:string)=> void
+tipo array->var:tipo[]
+"jsx": "react-jsx", no tsconfig ja importa 
