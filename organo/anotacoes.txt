@@ -7,3 +7,4 @@ jeito mais rápido de receber variáveis -> {enderecoImagem, textoAlternativo}:B
 tipo Função->funcao: (valor:string)=> void
 tipo array->var:tipo[]
 "jsx": "react-jsx", no tsconfig ja importa 
+var:tipo1|tipo2->aceita os dois
