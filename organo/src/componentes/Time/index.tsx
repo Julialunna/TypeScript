@@ -24,7 +24,7 @@ const Time = (props:TimeProps) => {
                 imagem={colaborador.imagem}/> )}
             </div>
         </section> 
-        : ''
+        : <></>
     )
 }
 
